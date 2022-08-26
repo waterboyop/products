@@ -1,0 +1,2 @@
+cocacola,25
+beer,125
